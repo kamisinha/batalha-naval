@@ -1,5 +1,5 @@
 
- Batalha Naval 
+# Batalha Naval 
 <p> align="center"> Crie um jogo de Batalha Naval para duas pessoas conseguirem jogar no Console</p>
 
 <p> - Seu programa deve perguntar os nomes dos jogadores.<br>
