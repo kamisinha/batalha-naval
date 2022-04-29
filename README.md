@@ -2,7 +2,8 @@
 # Batalha Naval 
 <p> Crie um jogo de Batalha Naval para duas pessoas conseguirem jogar no Console</p>
 
-<p> - Seu programa deve perguntar os nomes dos jogadores.<br>
+<p> 
+- Seu programa deve perguntar os nomes dos jogadores.<br>
 
 - Seu programa em ordem deve deixar cada jogador escolher a posição de 1 CRUZADOR (Ocupando 4 espaços) | 1 NAVIO (Ocupando 5 espaços) | 3 BARCOS ( 1 epsaço/cada) <br>
 
